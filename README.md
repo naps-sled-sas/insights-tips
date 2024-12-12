@@ -48,7 +48,7 @@ In the above screenshot, you may have noticed the **Tags** column in our System 
 
     ```
     **Note**
-    - Tags are not tied to a subscription pool or contract number associated with a system, the below example simply includes tags that may be useful to you for informational/tracking purposes
+    - Tags are not tied to a subscription pool or contract number associated with a system, the above example simply includes tags that may be useful to you for informational/tracking purposes
 
 3. Refresh data with Insights service.
 
