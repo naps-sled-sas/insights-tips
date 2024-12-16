@@ -33,7 +33,7 @@ In the above screenshot, you may have noticed the **Tags** column in our System 
     ```
     cd /etc/insights-client
 
-    touch tags.yml
+    touch tags.yaml
     ```
 2. Populate the ```tags.yaml``` file with attributes that may be useful to see in the customer portal. 
 
