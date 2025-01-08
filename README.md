@@ -40,7 +40,7 @@ In the above screenshot, you may have noticed the **Tags** column in our System 
     Here is an example of my tags.yaml file
 
     ```shell
-    [admin@rhel9 ~]$ cat /etc/insights-client/tags.yml
+    [admin@rhel9 ~]$ cat /etc/insights-client/tags.yaml
     group: rhel9
     department: Engineering
     subscription: RHEL Server Premium (instance-based)
